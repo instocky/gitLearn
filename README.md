@@ -28,9 +28,9 @@ This is only an example. Replace the URI with your own repository address.
 		
 
 
-# This is an <h1>
-## This is an <h2>
-###### This is an <h6>
+# This is an H1
+## This is an H2
+###### This is an H6
 
 *This text will be italic*
 _This will also be italic_
