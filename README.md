@@ -52,10 +52,12 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
    
-
+### Images
 ![Pic Logo](/src/logo.png)
 
+### Links
 [GitHub](http://github.com)
+[GitHub](http://github.com){:target="_blank"}
 
 As Kanye West said:
 
