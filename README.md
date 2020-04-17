@@ -59,6 +59,7 @@ _You **can** combine them_
 [GitHub](http://github.com)
 [GitHub](http://github.com){:target="_blank"}
 [link](url){:target="_blank"}
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 As Kanye West said:
 
