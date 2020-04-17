@@ -39,7 +39,8 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_
-===
+
+
 * Item 1
 * Item 2
   * Item 2a
@@ -50,3 +51,6 @@ _You **can** combine them_
 1. Item 3
    1. Item 3a
    1. Item 3b
+   
+
+![Pic Logo](/src/logo.png)
