@@ -60,6 +60,7 @@ _You **can** combine them_
 [GitHub](http://github.com){:target="_blank"}
 [link](url){:target="_blank"}
 <a href="http://example.com/" target="_blank">Hello, world!</a>
+* {{< target-blank "Title" "https://link-to/" >}}
 
 As Kanye West said:
 
