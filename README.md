@@ -65,3 +65,10 @@ As Kanye West said:
 ### Inline code
 I think you should use an
 `<addr>` element here instead.
+
+### Codes
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
