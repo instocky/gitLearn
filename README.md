@@ -54,3 +54,5 @@ _You **can** combine them_
    
 
 ![Pic Logo](/src/logo.png)
+
+[GitHub](http://github.com)
