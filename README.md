@@ -72,3 +72,11 @@ I think you should use an
         $.facebox({div:'#foo'})
       }
     }
+	
+```js
+function fancyAlert(arg) {
+  if(arg) {
+	$.facebox({div:'#foo'})
+  }
+}
+```
