@@ -58,6 +58,7 @@ _You **can** combine them_
 ### Links
 [GitHub](http://github.com)
 [GitHub](http://github.com){:target="_blank"}
+[link](url){:target="_blank"}
 
 As Kanye West said:
 
