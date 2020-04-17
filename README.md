@@ -56,3 +56,8 @@ _You **can** combine them_
 ![Pic Logo](/src/logo.png)
 
 [GitHub](http://github.com)
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
